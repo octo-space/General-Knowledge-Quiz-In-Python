@@ -27,7 +27,7 @@ This Python script provides a basic general knowledge quiz with multiple-choice 
 
 ## Example Output:
 
-![Example Image9]example.png)
+![Example Image](example.png)
 
 ## Customization:
 
