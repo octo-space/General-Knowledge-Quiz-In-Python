@@ -9,12 +9,6 @@ This Python script provides a basic general knowledge quiz with multiple-choice 
 - **Feedback:** The quiz provides immediate feedback after each question, indicating whether the answer was correct or incorrect and showing the correct answer.
 - **Progress Tracker:** The quiz includes separators to visually separate questions and provide a clear structure.
 
-## How to Use:
-
-1. **Clone the repository:** `git clone <repository_url>`
-2. **Navigate to the directory:** `cd general-knowledge-quiz`
-3. **Run the script:** `python quiz.py`
-
 ## Code Structure:
 
 - **`questions` Dictionary:** This dictionary stores all the quiz questions and their information, including:
@@ -33,7 +27,7 @@ This Python script provides a basic general knowledge quiz with multiple-choice 
 
 ## Example Output:
 
-
+![Example Image9]example.png)
 
 ## Customization:
 
